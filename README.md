@@ -1,3 +1,6 @@
+## Как редактировать readme.md
+https://github.com/GnuriaN/format-README
+
 ## Исправляет прыгающий скролл
 ```
 @media screen and (min-width: 960px) {
